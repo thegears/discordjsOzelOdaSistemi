@@ -1,0 +1,20 @@
+{
+  "name": "v13altyapigelismis",
+  "version": "1.0.0",
+  "description": "thegears",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "author": "thegears",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/rest": "^0.3.0",
+    "discord.js": "^13.6.0",
+    "fs": "^0.0.1-security",
+    "wio.db": "^4.0.22"
+  },
+  "engines": {
+    "node": ">=16"
+  }
+}
